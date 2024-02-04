@@ -1,8 +1,8 @@
 Full Name: Michael Wu
 
-Github Repo: [https://github.com/MichaelWuhu/HousingAllocation](url)
+Github Repo: https://github.com/MichaelWuhu/HousingAllocation
 
-Link to Video: [https://youtu.be/hpQL80sp2tQ](url)
+Link to Video: https://youtu.be/hpQL80sp2tQ
 
 Name/Version of Screencast: OBS/ver 30.0.2
 
