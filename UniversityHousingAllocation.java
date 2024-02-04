@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+
+/**
+ * UniversitHousingAllocation
+ * 
+ * determines students' housing priority
+ */
 public class UniversityHousingAllocation {
     public static void main(String[] args) {
         // FACTORS:
